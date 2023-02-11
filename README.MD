@@ -1,4 +1,4 @@
-# Bot de Saldo e Vendas automáticas por PIX
+# Bot de Saldo e Vendas automáticas por PIX (v14)
 
 Esse projeto não foi finalizado, ainda está bugs e não pretendo finalizar.
 
