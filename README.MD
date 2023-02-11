@@ -24,7 +24,7 @@ após isso é só dar ```node .```
 no console!
 
 ### Créditos
-Parte do sistema de vendas - https://github.com/onlyvanilla
+Parte do sistema de vendas - https://github.com/onlyvanilla \n
 API - https://github.com/mercadopago
 
 Feito com amor e carinho por mr. pesp#2023
