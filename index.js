@@ -24,7 +24,7 @@ client.login(process.env.TOKEN)
 
 client.once('ready', async() => {	
 	
-	client.user.setActivity({ name: 'gbstore.net', type: ActivityType.Playing})
+	client.user.setActivity({ name: 'bot', type: ActivityType.Playing})
   });
 
 process.on('uncaughtException', err => console.log(err))
